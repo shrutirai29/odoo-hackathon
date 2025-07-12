@@ -1,6 +1,6 @@
 # odoo-hackathon
 
-Problem Statement ->
+Problem Statement -> ReWear - Community Clothing Exchange
 
 Team Name -> !nc0gn!t0
 
